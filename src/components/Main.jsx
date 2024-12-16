@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Loader from "./Loader";
+import Loader from "./Loader.jsx";
 
 export default function Main() {
     const regions = [
